@@ -5,7 +5,8 @@
 ![image](https://user-images.githubusercontent.com/87282811/173276448-d60c59b2-9961-4fe1-a6ab-6f7a00dc6c2d.png)
 
 commands to play the game:
-javac --module-path javafx-sdk-11.0.2/lib/ --add-modules=javafx.controls Jordle.java \n/n
+javac --module-path javafx-sdk-11.0.2/lib/ --add-modules=javafx.controls Jordle.java
+
 java --module-path javafx-sdk-11.0.2/lib/ --add-modules=javafx.controls Jordle
 
 Enjoy!
